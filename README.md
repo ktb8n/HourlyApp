@@ -1,2 +1,0 @@
-# HourlyApp
-React Practice
